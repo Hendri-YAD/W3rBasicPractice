@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace W3rBasic
 {
-    class Program
+    class Question4
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            //Not doing            
+
         }
     }
 }
